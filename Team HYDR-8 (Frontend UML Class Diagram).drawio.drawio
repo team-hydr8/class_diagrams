@@ -110,7 +110,7 @@
         <mxCell id="0OLmLl1Zl1GQKj62fFSO-28" value="__init__(id, name, region,&#xa;balance, water_usage)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="0OLmLl1Zl1GQKj62fFSO-25">
           <mxGeometry y="60" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0OLmLl1Zl1GQKj62fFSO-44" value="adjust_balance()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="0OLmLl1Zl1GQKj62fFSO-25">
+        <mxCell id="0OLmLl1Zl1GQKj62fFSO-44" value="adjust_balance(amount:int)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="0OLmLl1Zl1GQKj62fFSO-25">
           <mxGeometry y="100" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="0OLmLl1Zl1GQKj62fFSO-45" value="get_account_details()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="0OLmLl1Zl1GQKj62fFSO-25">
